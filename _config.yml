@@ -8,12 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 阎继先的主站
-tagline: 高效·简约·绚丽
+title : 李大师的主站
+tagline: 游戏机
 author :
-  name : 阎继先
-  email : yjx3097890@gmail.com
-  github : yjx3097890@sina.com
+  name : 李志
+  email : lizhinewlife@gmail.com
+  github : 玩物尚志
   twitter : 暂无
   feedburner : 暂无
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://yanjixian.com
+production_url : http://lizhicloud.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
