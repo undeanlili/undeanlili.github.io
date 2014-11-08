@@ -7,3 +7,5 @@ tagline: 游戏机
 
 
 hello
+
+![帅](1.jpg "脸")
