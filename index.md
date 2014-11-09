@@ -23,6 +23,11 @@ hello
 
 <a href="http://yanjixian.com">脸萌网站</a>
 
+<audio controls>
+<source src="1.m4a" type="audio/mpeg4">
+您的浏览器不支持 audio 元素。
+</audio>
+
 </body>
 
 <script>
