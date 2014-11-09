@@ -48,7 +48,7 @@ x.innerHTML="Latitude: " + position.coords.latitude +
 </script>
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
-Copyright © W3CSchool.cc</div>
+这是一个神奇的网站</div>
 
 </div>
 
