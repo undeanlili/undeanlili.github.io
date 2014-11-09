@@ -40,6 +40,6 @@ x.innerHTML="Latitude: " + position.coords.latitude +
 </script>
 
 
-![老上海胭脂](上海.jpg "上海")
+![老上海胭脂](2.jpg "上海")
 
 
