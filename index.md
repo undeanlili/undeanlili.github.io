@@ -42,5 +42,5 @@ x.innerHTML="Latitude: " + position.coords.latitude +
 
 
 ![老上海胭脂](2.jpg "上海")
-
+![老上海胭脂](3.jpg "古镇")
 
