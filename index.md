@@ -12,6 +12,11 @@ hello
 <h2>这是一个中古游戏机的世界</h2>
 <h3>这是中古的世界</h3>
 
+<body style="background-color:yellow;">
+<h2 style="background-color:red;">This is a heading</h2>
+<p style="background-color:green;">This is a paragraph.</p>
+</body>
+
 <script>
 var x=document.getElementById("demo");
 function getLocation()
