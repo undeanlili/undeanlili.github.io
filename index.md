@@ -11,9 +11,6 @@ hello
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1>这是一个游戏机的世界</h1></div>
 
-</div>
-
-
 <h2>这是一个中古游戏机的世界</h2>
 <h3>这是中古的世界</h3>
 
