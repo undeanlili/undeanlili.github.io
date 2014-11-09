@@ -19,7 +19,7 @@ hello
 <input type="button" value="Hello world!">
 </form>
 
-<a href="http://yanjixian.com">这是一个链接</a>
+<a href="http://yanjixian.com">脸萌网站</a>
 
 </body>
 
