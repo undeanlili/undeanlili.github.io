@@ -29,15 +29,15 @@ hello
 </audio>
 
 
-<p>游戏机公司介绍
+<p>游戏机公司介绍</p>
 
-目前3大游戏硬件制作商
+<p>目前3大游戏硬件制作商</p>
 任天堂：最老牌儿的游戏制作商，到目前为止，共有一下几种硬件：
 
-家用机：
-1⃣️机型Family Computer（FC，红白机）
-2⃣️Super Family Computer（SFC，超任）
-3⃣️
+<p>家用机：</p>
+<p>1⃣️机型Family Computer（FC，红白机）</p>
+<p>2⃣️Super Family Computer（SFC，超任）</p>
+<p>3⃣️</p>
 
 KONAMI
 
