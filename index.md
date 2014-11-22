@@ -52,7 +52,24 @@ hello
 <p>7⃣️Nintendo Dual Screen(NDS)</p>
 <p>8⃣️Nintendo 3DS</p>
 
+<p>传奇机：</p>
+<p>1⃣️VB(Virtual Boy)</p>
+<p>2⃣️64DD</p>
+
+<p>索尼：从PS时代开始的硬件游戏厂商</p>
+
+<p>家用机：</p>
+<p>1⃣️Play Station(黑白)</p>
+<p>2⃣️Play Station one(PS的轻量版)</p>
+<p>3⃣️Play Station 2</p>
+<p>4⃣️Play Station two(PS2的轻量版)</p>
+<p>5⃣️Play Station 3</p>
+<p>6⃣️Play Station 4</p>
+
 <p>掌机：</p>
+<p>1⃣️Play Station Portable(著名的掌机)</p>
+<p>2⃣️PSP Go</p>
+<p>3⃣️PS Vita</p>
 
 
 KONAMI
