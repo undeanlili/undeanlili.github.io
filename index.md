@@ -37,7 +37,23 @@ hello
 <p>家用机：</p>
 <p>1⃣️机型Family Computer（FC，红白机）</p>
 <p>2⃣️Super Family Computer（SFC，超任）</p>
-<p>3⃣️</p>
+<p>3⃣️Nintendo64(N64,海豚)</p>
+<p>4⃣️Nintendo Game Cube(NGC)</p>
+<p>5⃣️Wii</p>
+<p>6⃣️WiiU</p>
+
+<p>掌机：</p>
+<p>1⃣️Game Boy(黑白)</p>
+<p>2⃣️Game Boy Pocket</p>
+<p>3⃣️Game Boy Color</p>
+<p>4⃣️Game Boy Advance</p>
+<p>5⃣️Game Boy Advance SP</p>
+<p>6⃣️Game Boy MICRO</p>
+<p>7⃣️Nintendo Dual Screen(NDS)</p>
+<p>8⃣️Nintendo 3DS</p>
+
+<p>掌机：</p>
+
 
 KONAMI
 
