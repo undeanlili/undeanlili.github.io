@@ -103,7 +103,7 @@ function myFunction(name,job)
 alert("Welcome " + name + ", the " + job);
 }
 
-
+<script>
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 这是一个神奇的网站</div>
 
