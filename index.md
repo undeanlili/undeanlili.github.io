@@ -77,7 +77,6 @@ KONAMI
 </p>
 
 </body>
-<button onclick="myFunction('Harry Potter','Wizard')">点击这里</button>
 
 <script>
 var x=document.getElementById("demo");
@@ -96,12 +95,6 @@ x.innerHTML="Latitude: " + position.coords.latitude +
 }
 
 
-
-
-function myFunction(name,job)
-{
-alert("Welcome " + name + ", the " + job);
-}
 
 <script>
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
