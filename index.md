@@ -5,7 +5,6 @@ tagline: 游戏机
 ---
 {% include JB/setup %}
 
-</body>
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1>这是一个游戏机的世界</h1></div>
@@ -88,4 +87,3 @@ http.createServer(app).listen(app.get('port'), function(){
 
 </script>
 
-</body>
