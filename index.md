@@ -5,6 +5,7 @@ tagline: 游戏机
 ---
 {% include JB/setup %}
 
+<h1 onclick="this.innerHTML='Ooops!'">点击文本!</h1>
 
 hello
 
