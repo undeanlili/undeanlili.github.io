@@ -5,7 +5,7 @@ tagline: 游戏机
 ---
 {% include JB/setup %}
 
-
+1
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1>这是一个游戏机的世界</h1></div>
 <h2>这是一个中古游戏机的世界</h2>
