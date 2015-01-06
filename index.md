@@ -30,7 +30,7 @@ hello
 
 
 <p>游戏机公司介绍</p>
-<button onclick="myFunction('Harry Potter','Wizard')">点击这里</button>
+<button onclick=“我爱小猫”>点击这里</button>
 
 <p>目前3大游戏硬件制作商</p>
 任天堂：最老牌儿的游戏制作商，到目前为止，共有一下几种硬件：
@@ -107,3 +107,4 @@ x.innerHTML="Latitude: " + position.coords.latitude +
 ![老上海胭脂](2.jpg "上海")
 ![老上海胭脂](3.jpg "古镇")
 
+</body>
