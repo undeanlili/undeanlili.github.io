@@ -5,7 +5,7 @@ tagline: 游戏机
 ---
 {% include JB/setup %}
 
-
+</body>
 
 hello
 
@@ -77,7 +77,7 @@ hello
 KONAMI
 
 
-</body>
+
 
 
 
