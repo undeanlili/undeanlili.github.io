@@ -12,7 +12,6 @@ tagline: 游戏机
 <h3>这是中古的世界</h3>
 
 <body style="background-color:yellow;">
-2
 <form action="">
 <input type="button" value="Hello world!">
 </form>
