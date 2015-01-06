@@ -93,7 +93,15 @@ function showPosition(position)
 x.innerHTML="Latitude: " + position.coords.latitude + 
 "<br>Longitude: " + position.coords.longitude; 
 }
-</script>
+
+<button onclick="myFunction('Harry Potter','Wizard')">点击这里</button>
+
+
+function myFunction(name,job)
+{
+alert("Welcome " + name + ", the " + job);
+}
+
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 这是一个神奇的网站</div>
