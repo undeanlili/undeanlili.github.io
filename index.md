@@ -5,7 +5,7 @@ tagline: 游戏机
 ---
 {% include JB/setup %}
 
-<h1 onclick="this.innerHTML='Ooops!'">点击文本!</h1>
+
 
 hello
 
@@ -76,36 +76,11 @@ hello
 
 KONAMI
 
-</p>
 
 </body>
 
-<script>
-var x=document.getElementById("demo");
-function getLocation()
-{
-if (navigator.geolocation)
-{
-navigator.geolocation.getCurrentPosition(showPosition);
-}
-else{x.innerHTML="该浏览器不支持获取地理位置。";}
-}
-function showPosition(position)
-{
-x.innerHTML="Latitude: " + position.coords.latitude + 
-"<br>Longitude: " + position.coords.longitude; 
-}
+<h1 onclick="this.innerHTML='Ooops!'">点击文本!</h1>
 
 
-
-<script>
-<div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
-这是一个神奇的网站</div>
-
-</div>
-
-
-![老上海胭脂](2.jpg "上海")
-![老上海胭脂](3.jpg "古镇")
 
 </body>
