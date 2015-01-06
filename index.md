@@ -11,7 +11,7 @@ hello
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1>这是一个游戏机的世界</h1></div>
-<h1>onclick="this.innerHTML='Ooops!'">点击文本!</h1>
+
 <h2>这是一个中古游戏机的世界</h2>
 <h3>这是中古的世界</h3>
 
@@ -31,7 +31,6 @@ hello
 
 
 <p>游戏机公司介绍</p>
-<button onclick=“我爱小猫”>点击这里</button>
 
 <p>目前3大游戏硬件制作商</p>
 任天堂：最老牌儿的游戏制作商，到目前为止，共有一下几种硬件：
