@@ -6,6 +6,8 @@ tagline: 游戏机
 {% include JB/setup %}
 
 </body>
+<img src=“2.jpg" alt="Pulpit rock" width="304" height="228”>
+<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
 
 hello
 
@@ -72,8 +74,7 @@ hello
 <p>2⃣️PSP Go</p>
 <p>3⃣️PS Vita</p>
 
-<img src=“2.jpg" alt="Pulpit rock" width="304" height="228”／>
-<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
+
 
 KONAMI
 
