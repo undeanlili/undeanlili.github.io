@@ -77,8 +77,9 @@ KONAMI
 
 <script>
 document.write(Date());
+<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
 </script>
 
-<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
+
 
 </body>
