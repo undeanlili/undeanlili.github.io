@@ -72,12 +72,12 @@ hello
 <p>2⃣️PSP Go</p>
 <p>3⃣️PS Vita</p>
 
+<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
 
 KONAMI
 
 <script>
 document.write(Date());
-<img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
 </script>
 
 
