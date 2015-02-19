@@ -1,15 +1,12 @@
----
-layout: page
-title: 小猫和汪汪的地盘
-tagline: 游戏机
----
-{% include JB/setup %}
-
-</body>
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <title>我和小猫的世界</title>
+</head>
+<body>
 <img src=“2.jpg" alt="Pulpit rock" width="304" height="228”>
 <img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
-
-hello
 
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1 width=“400” height=“90”/>这是一个游戏机的世界</h1></div>
@@ -78,10 +75,7 @@ hello
 
 KONAMI
 
-<script>
-document.write(Date());
-</script>
-
 
 
 </body>
+</html>
