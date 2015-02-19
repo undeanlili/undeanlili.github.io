@@ -3,7 +3,7 @@ layout: page
 title: 阎继先
 tagline: 高效·简约·绚丽
 ---
-{% include JB/setup %}
+
 
 <!DOCTYPE html>
 <html>
