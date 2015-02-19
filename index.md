@@ -7,33 +7,21 @@
 <body>
 <img src=“2.jpg" alt="Pulpit rock" width="304" height="228”>
 <img src=“akane1.jpg" alt="Pulpit rock" width="304" height="228">
-
 <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
 <h1 width=“400” height=“90”/>这是一个游戏机的世界</h1></div>
-
 <h2>这是一个中古游戏机的世界</h2>
 <h3>这是中古的世界</h3>
-
-<body style="background-color:yellow;">
-
-
 <form action="">
 <input type="button" value="Hello world!">
 </form>
-
 <a href="http://yanjixian.com">脸萌网站</a>
-
 <audio controls>
 <source src="1.m4a" type="audio/mpeg">
 您的浏览器不支持 audio 元素。
 </audio>
-
-
 <p>游戏机公司介绍</p>
-
 <p>目前3大游戏硬件制作商</p>
 任天堂：最老牌儿的游戏制作商，到目前为止，共有一下几种硬件：
-
 <p>家用机：</p>
 <p>1⃣️机型Family Computer（FC，红白机）</p>
 <p>2⃣️Super Family Computer（SFC，超任）</p>
@@ -41,7 +29,6 @@
 <p>4⃣️Nintendo Game Cube(NGC)</p>
 <p>5⃣️Wii</p>
 <p>6⃣️WiiU</p>
-
 <p>掌机：</p>
 <p>1⃣️Game Boy(黑白)</p>
 <p>2⃣️Game Boy Pocket</p>
@@ -55,9 +42,7 @@
 <p>传奇机：</p>
 <p>1⃣️VB(Virtual Boy)</p>
 <p>2⃣️64DD</p>
-
 <p>索尼：从PS时代开始的硬件游戏厂商</p>
-
 <p>家用机：</p>
 <p>1⃣️Play Station(黑白)</p>
 <p>2⃣️Play Station one(PS的轻量版)</p>
@@ -65,17 +50,9 @@
 <p>4⃣️Play Station two(PS2的轻量版)</p>
 <p>5⃣️Play Station 3</p>
 <p>6⃣️Play Station 4</p>
-
 <p>掌机：</p>
 <p>1⃣️Play Station Portable(著名的掌机)</p>
 <p>2⃣️PSP Go</p>
 <p>3⃣️PS Vita</p>
-
-
-
-KONAMI
-
-
-
 </body>
 </html>
