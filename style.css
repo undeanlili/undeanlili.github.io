@@ -1,0 +1,29 @@
+body {
+    color: #666666;
+    margin: atuo;
+    text-align: center;
+    background-color: #ffcc33;
+}
+span {
+    color:999999;
+}
+h1 {
+    color: #ff6633;
+    font-size: 40px;
+    font-family:"Arial Black";
+    text-align: center;
+    margin: atuo;
+}
+h2 {
+    font-size: 24px;
+    color: #009966;
+    font-style: italic;
+    margin:auto
+}
+address{
+    font-size: smaller;
+
+}
+p {
+    color: #669933;
+    font-style:italic;
